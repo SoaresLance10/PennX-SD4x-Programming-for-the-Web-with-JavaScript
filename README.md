@@ -10,7 +10,7 @@ Server-side JavaScript is becoming more prevalent in the industry, with web fram
 
 Thorugh the course I had to submit **6 homework Assignments** and **9 Quizzes**:
 
-####Homework Assignments:
+#### Homework Assignments:
 
 1. Homework 1: HTML
 2. Homework 2: JavaScript
@@ -19,7 +19,7 @@ Thorugh the course I had to submit **6 homework Assignments** and **9 Quizzes**:
 5. Homework 5: React
 6. Homework 6: Node
 
-####Quizzes:
+#### Quizzes:
 
 1. Basics of the World Wide Web
 2. Developing Web Pages with HTML
@@ -97,9 +97,9 @@ In completing this assignment, you will:
 4. Create a server-side Web application that reads data from an incoming HTTP request and sends back JSON data in an HTTP response
 
 
-###I completed the course with a 100% score.
+### I completed the course with a 100% score.
 
 ### Certificate: https://courses.edx.org/certificates/0e8031533eb846e6a3356c88a7404298
 
 
-#Lance Soares
+# Lance Soares
