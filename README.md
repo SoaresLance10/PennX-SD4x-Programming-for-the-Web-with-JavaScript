@@ -1,6 +1,6 @@
 # PennX-SD4x-Programming-for-the-Web-with-JavaScript
 
-### My work for PennX's Programming for the Web wtih JavaScript
+#### My work for edX's SD4x: Programming the Web with JavaScript, a course by PennX an online learning initiative by the University of Pennsylvania.
 
 This course provides an introduction to modern web development using JavaScript. In addition to exploring the basics of web page creation using HTML and CSS it teaches advanced web page layout and responsive design tools such as Bootstrap. It also talks about how browsers represent a web page data using the Document Object Model (DOM) and how to develop dynamic, interactive web pages using JavaScript in the browser. Beyond fundamental JavaScript syntax and advanced language features such as callbacks, events, and asynchronous programming, you will work with jQuery, which provides functionality for simplified DOM manipulation and event handling.
 
